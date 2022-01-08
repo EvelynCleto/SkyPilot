@@ -1,7 +1,7 @@
 # FlappyPlane
 
 
-[<img src="https://youtu.be/payFptqKF0A" width="50%">](https://youtu.be/payFptqKF0A/<VIDEO ID>)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 
 
